@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TheOtherUser3
+- 👋 Hi, I’m Dawson
 - 👀 I’m interested in AI Development.
-- 🌱 I’m currently learning C# and Unity Programming.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: dawsonmaska@gmail.com
 
