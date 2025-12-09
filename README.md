@@ -39,8 +39,8 @@ Within that repository, the Snake AI Arena is located in the `/project/` directo
 The repository also contains several earlier Django applications built throughout the semester. Although, since those are  
 not personalized and not close to the scale of the Snake Arena application, they are not mentioned here.
 
-**Planned future feature:** Snake evolution system
-Access it yourself here:
+**Planned future feature:** Snake evolution system  
+Access it yourself here:  
 https://cs-webapps.bu.edu/dawsonwm/project
 
 ---
