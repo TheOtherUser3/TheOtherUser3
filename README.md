@@ -29,7 +29,7 @@ A full-stack web application where users can:
 - Create AI-controlled snakes  
 - Design custom boards  
 - Run automated snake battles  
-- Evaluate performance to discover optimal strategies  
+- Evaluate performance and check leaderboards 
 
 Built with Django for the backend and JavaScript for the frontend.
 
@@ -39,8 +39,9 @@ Within that repository, the Snake AI Arena is located in the `/project/` directo
 The repository also contains several earlier Django applications built throughout the semester. Although, since those are  
 not personalized and not close to the scale of the Snake Arena application, they are not mentioned here.
 
-**Initial completion:** December 2025  
 **Planned future feature:** Snake evolution system
+Access it yourself here:
+https://cs-webapps.bu.edu/dawsonwm/project
 
 ---
 
